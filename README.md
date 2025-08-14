@@ -29,15 +29,6 @@ I enjoy crafting systems that are **smart, efficient, and human-friendly**.
 - Designing **desktop & web AI applications** with intuitive interfaces  
 - Exploring the intersection of **science, AI, and user experience**
 
----
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Connect with Me
+## 📫 Feel free to connect with Me
 - **Email:** [vunguyen2472001@gmail.com]  
 
----
